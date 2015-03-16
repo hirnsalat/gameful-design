@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Tadaaa!"
+date:   2015-03-16 17:57
+---
+
+It's joining the party a bit late, but here is my shiny new blog for the gameful design course! Over the following weeks and months, it should fill up with a lot of half-finished and probably bad game designs. This is intended to get me a bit of game design practice, but I hope to create some fun and/or memorable experiences along the way :)
