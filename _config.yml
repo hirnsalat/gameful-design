@@ -2,7 +2,7 @@
 title: Gameful Design
 description: > # this means to ignore newlines until "baseurl:"
     This blog documents my progress in the Gameful Design course.
-baseurl: "gameful-design" # the subpath of your site, e.g. /blog/
+baseurl: "/gameful-design/" # the subpath of your site, e.g. /blog/
 url: "http://hirnsalat.github.io" # the base hostname & protocol for your site
 github_username:  hirnsalat
 
