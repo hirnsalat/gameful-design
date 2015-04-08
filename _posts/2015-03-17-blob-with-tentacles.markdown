@@ -23,11 +23,11 @@ This is a card game for two players. Players take turns playing object cards. Ev
 
 Each object card represents a _kind_ of object with a _property_. For example, this is a _blob_ with _tentacles_:
 
-![a blob with tentacles]({{site.mediaurl}}01-blob-with-tentacles.jpg)
+![a blob with tentacles]({{site.mediaurl}}01/blob-with-tentacles.jpg)
 
 Here are some of the other ones:
 
-![other object cards]({{site.mediaurl}}01-objectcards.jpg)
+![other object cards]({{site.mediaurl}}01/objectcards.jpg)
 
 Every combination of _kind_ and _property_ exists exactly once.
 
@@ -35,7 +35,7 @@ Every combination of _kind_ and _property_ exists exactly once.
 
 The value cards are two rows of cards in the middle of the table. They show the value of the different _kinds_ and _properties_ of object cards. An object card is higher than another object card if it is the same or higher on _both_ the kind and property scales. Here, the blob with tentacles is the most valuable card, and the spiked ball the least valuable one:
 
-![the value cards]({{site.mediaurl}}01-valuecards.jpg)
+![the value cards]({{site.mediaurl}}01/valuecards.jpg)
 
 ### Event Cards
 
