@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/gameful-design/" # the subpath of your site, e.g. /blog/
 url: "http://hirnsalat.github.io" # the base hostname & protocol for your site
 github_username:  hirnsalat
+mediaurl: "/gameful-design/media/"
 
 # Build settings
 markdown: kramdown
