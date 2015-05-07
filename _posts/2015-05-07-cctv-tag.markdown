@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "4: CCTV Tag"
+date:   2015-05-07 17:16
+---
+
+In this assignment, we had to develop a game that encourages and gives an input to a discussion about public surveillance. We were shown some projects that deal with surveillance (sadproject.tv, [FACELESS by Manu Luksch](http://www.facelessexhibition.net/manu-luksch-autgbr), [iSEE by the Institute for Applied Autonomy](http://www.appliedautonomy.com/isee.html)), but left without restrictions in regardto the game we were to develop.
+
+Our team consisted of [Nuray](https://gamefuldesign2015.wordpress.com/), [Chris](http://chris-gamefuldesign.tumblr.com/) and me. We very quickly decided that we didn't want to develop a digital game. After some discussion and with a bit of inspiration from the [Journey to the End of the Night](http://www.journeyvienna.at/), we settled on a simple but intriguing concept: We would make a street game, where some of the players played CCTV cameras and the others played people that had something to hide.
+
+We went outside and playtested for a bit. One person would have to go from A to B, and the others would act as CCTV cameras and try to get a picture of the runner's face. From the first try, we really liked the feeling of the game. Playing gave an interesting incomfortable feeling, no matter what role you were in. Not acting in normal ways in public space feels weird. We liked that because it made you feel the normative effect that society has on your behavior. This effect is very similar to the normative effects that CCTV cameras have in public space, so that's nice.
+
+The basic rules are very simple:
+
+* Divide the players into runners and cameras. Longer routes require more cameras, but 50/50 is a good ratio.
+* A starting point and goal for the runners is chosen.
+* The cameras get a head start and hide on the path.
+* They have to stay stationary and get a picture of the runners' faces.
+* Taking pictures of the runners in close proximity to the goal is not allowed because it is too easy. 
+* The runners have to reach the goal.
+* There is a time limit for the runners.
+
+These were the rules we played by in the last seminar meeting. What happened was a bit unexpected: The runners chose a very roundabout path and all of them were too late. That is a problem that has to be addressed, the game breaks down if it is just a matter of finding a path that is very roundabout but still short enough. The solution I like best is assigning different starting and end points for the runners, that way there is no clear path that the cameras can watch and everything should be distributed better. It is probably also a good idea to restrict the area that is available for play.
+
+That being said, we got a lot of positive feedback. People liked the simplicity of the game. Someone said they liked the way you could play it with almost anyone with no preparation. Also, it was liked that it brought the discussion about surveillance into the public space, where it is most relevant.
